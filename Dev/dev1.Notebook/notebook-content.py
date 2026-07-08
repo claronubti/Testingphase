@@ -19,7 +19,7 @@ from pyspark.sql.functions import col, current_date
 # 2. Create a simple sample dataset (Sales Data)
 data = [
     (1, "Electronics", 750.00, "Tirupati"),
-    (2, "Apparel", 120.50, "Delhi"),
+    (2, "Apparel", 120.50, "Delhi-github"),
     (3, "Electronics", 1200.00, "Bangalore"),
     (4, "Home Decor", 340.25, "Chennai"),
     (5, "Apparel", 89.90, "Hyderabad")
